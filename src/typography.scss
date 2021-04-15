@@ -1,0 +1,10 @@
+$font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+@mixin font-defaults {
+  font-family: $font-family;
+}
+
+@mixin heading {
+  @include font-defaults;
+
+}
