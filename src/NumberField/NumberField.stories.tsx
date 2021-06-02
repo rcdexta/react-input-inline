@@ -32,4 +32,4 @@ const TestCurrency = () => {
   )
 }
 
-export const WithFormmater = () => <TestCurrency />
+export const WithFormatter = () => <TestCurrency />
