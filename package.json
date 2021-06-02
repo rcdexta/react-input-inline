@@ -1,6 +1,6 @@
 {
   "name": "react-input-inline",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "build/index.js",
   "module": "build/index.esm.js",
   "files": [
